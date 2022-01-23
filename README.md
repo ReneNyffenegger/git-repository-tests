@@ -1,2 +1,1 @@
-# about-git
-About git
+# git repository tests
